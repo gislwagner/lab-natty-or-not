@@ -33,7 +33,9 @@ Lumen5
 Foi feito o pedido Jo chat do Meta AI para uma apresentação curta de origem do Natal. Esse texto foi levado ao Lumen5 que fez a criação do vídeo a partir dele
 
 ## 🚀 Resultados
-vídeo gerado com a informação 
+vídeo gerado com a informação
+
+https://lumen5.com/user/gisellewagner/discovering-christma-1v1dq/
 
 ## 💭 Reflexão (Opcional)
 Comente sobre o desafio de criar algo 'natty' com IA.
