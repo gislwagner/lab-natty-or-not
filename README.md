@@ -20,19 +20,20 @@ Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisicu
 ### Template
 
 ```markdown
-# Título do Projeto Extremamente Aesthetic ;)
+# A origem do Natal
 
 ## 📒 Descrição
-Breve descrição do seu projeto
+informação sobre a origem do Natal
 
 ## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
+Meta AI
+Lumen5
 
 ## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
+Foi feito o pedido Jo chat do Meta AI para uma apresentação curta de origem do Natal. Esse texto foi levado ao Lumen5 que fez a criação do vídeo a partir dele
 
 ## 🚀 Resultados
-Apresente os resultados do seu projeto
+vídeo gerado com a informação 
 
 ## 💭 Reflexão (Opcional)
 Comente sobre o desafio de criar algo 'natty' com IA.
